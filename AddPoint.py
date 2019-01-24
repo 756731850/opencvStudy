@@ -4,6 +4,8 @@
 import cv2
 import numpy as np
 
+#git test
+
 # 添加椒盐噪声
 def salt(img):
     for k in range(100):
