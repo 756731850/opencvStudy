@@ -4,9 +4,6 @@
 import cv2
 import numpy as np
 
-#git test
-#git test2
-
 # 添加椒盐噪声
 
 

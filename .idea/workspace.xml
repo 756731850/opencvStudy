@@ -2,53 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="905e0696-ea2c-4768-b933-ec375ce7cda7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Admin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnswerSheetProject" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/AnswerSheetProject/anwser_sheet_scan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv/sheet.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv/threshold.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv/timg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencvStudy/img/building.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencvStudy/img/cpy_test.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencvStudy/img/salt.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencvStudy/img/test.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencvStudy/img/ttt.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threshold.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AddPoint.py" beforeDir="false" afterPath="$PROJECT_DIR$/AddPoint.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bomb.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bomb.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpencvTest/FrameTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpencvTest/FrameTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpencvTest/abs.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpencvTest/abs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpencvTest/learn.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpencvTest/learn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpencvTest/turtleTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpencvTest/turtleTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpencvTest/turtleTest2.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpencvTest/turtleTest2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpencvTest/turtleTest3.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpencvTest/turtleTest3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/haha.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/haha.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv/sheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/opencv/sheet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv/thresholdTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/opencv/thresholdTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencvStudy/cannyJustTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/opencvStudy/cannyJustTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencvStudy/cannyTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/opencvStudy/cannyTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencvStudy/checkCornerTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/opencvStudy/checkCornerTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencvStudy/checkFaceTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/opencvStudy/checkFaceTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencvStudy/copyImg.py" beforeDir="false" afterPath="$PROJECT_DIR$/opencvStudy/copyImg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencvStudy/findContoursTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/opencvStudy/findContoursTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencvStudy/getElement.py" beforeDir="false" afterPath="$PROJECT_DIR$/opencvStudy/getElement.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencvStudy/houghLineTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/opencvStudy/houghLineTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencvStudy/laplacianTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/opencvStudy/laplacianTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencvStudy/lowpassTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/opencvStudy/lowpassTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencvStudy/medianBlur.py" beforeDir="false" afterPath="$PROJECT_DIR$/opencvStudy/medianBlur.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencvStudy/open_close_operation.py" beforeDir="false" afterPath="$PROJECT_DIR$/opencvStudy/open_close_operation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencvStudy/saveImg.py" beforeDir="false" afterPath="$PROJECT_DIR$/opencvStudy/saveImg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencvStudy/separetionTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/opencvStudy/separetionTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencvStudy/showHist.py" beforeDir="false" afterPath="$PROJECT_DIR$/opencvStudy/showHist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencvStudy/showImg.py" beforeDir="false" afterPath="$PROJECT_DIR$/opencvStudy/showImg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencvStudy/sobelTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/opencvStudy/sobelTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencvStudy/structTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/opencvStudy/structTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/salt.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/salt.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnswerSheetProject" beforeDir="false" afterPath="$PROJECT_DIR$/AnswerSheetProject" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -136,8 +93,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AddPoint.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+            <state relative-caret-position="88">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
               <folding>
                 <element signature="e#43#53#0" expanded="true" />
               </folding>
@@ -777,8 +734,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AddPoint.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        <state relative-caret-position="88">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
           <folding>
             <element signature="e#43#53#0" expanded="true" />
           </folding>
