@@ -10,11 +10,13 @@ img = cv2.imread('test.jpg',0);
 element = cv2.getStructuringElement(cv2.MORPH_RECT,(3, 3))
 # 膨胀图像 cv2.dilate(图像,元素结构)
 dilate = cv2.dilate(img, element)
+
 # 腐蚀图像 cv2.erode(图像,元素结构)
 erode = cv2.erode(img, element)
 
 # 将两幅图像相减获得边，第一个参数是膨胀后的图像，第二个参数是腐蚀后的图像
 result = cv2.absdiff(dilate,erode);
+cv2.imshow("result",result);
 
 # 上面得到的结果是灰度图，cv2.threshold将其二值化以便更清楚的观察结果
 # cv2.threshold(src , thresh, maxval, type[, dst])  返回retval、dst
